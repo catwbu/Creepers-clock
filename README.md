@@ -10,4 +10,5 @@
 ## 功能特色
 - 顯示當前系統時間 (`HH:MM:SS`)，並每秒刷新。
 - 使用 **綠色 (`color a`)** 呈現螢幕，以符合 Minecraft 苦力怕的經典配色。
+
 ![gif](gif/creeper.gif)
